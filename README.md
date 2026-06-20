@@ -24,7 +24,7 @@ There's a folder for each kata nested in its own kyu
 ## 🎯 Goals
 
 - Solve problems daily
-- Practice multiple languages
+- Practice programming languages
 - Write clean and efficient code
 
 
