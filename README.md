@@ -3,8 +3,6 @@
 Hi there! i'm Jouvan 👋  
 This is my daily coding exercise repository. I store my **Codewars** solutions here to track my learning progress.
 
----
-
 ### Repository Structure
 
 There's a folder for each kata nested in its own kyu
@@ -29,7 +27,6 @@ There's a folder for each kata nested in its own kyu
 - Practice multiple languages
 - Write clean and efficient code
 
----
 
 ## 📊 Stats
 ![Codewars](https://www.codewars.com/users/jouvanprb/badges/large)
