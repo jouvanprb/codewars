@@ -11,13 +11,13 @@ There's a folder for each kata nested in its own kyu
 ├── 6-kyu/
 │   ├── multiple of 3or5/
 │   │   ├── index.js
-│   │   └── index.test-js
+│   │   └── index-test.js
 │   └── ...
 │
 ├── 7-kyu/
 │   ├── String ends with?/
 │   │   ├── index.js
-│   │   └── index.test-js
+│   │   └── index-test.js
 │   └── ...
 ```
 
