@@ -1,0 +1,17 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "Hi there! i'm Jouvan 👋   This is my daily coding exercise repository. I store my **Codewars** solutions here to track my learning progress.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha \"**/*.test.js\"",
+    "test:file": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^6.2.2",
+    "mocha": "^10.8.2"
+  }
+}
